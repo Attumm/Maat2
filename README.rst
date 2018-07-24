@@ -2,8 +2,8 @@
 Maat 2
 =========================
 
-.. image:: https://travis-ci.org/Attumm/Maat.svg?branch=master
-    :target: https://travis-ci.org/Attumm/Maat
+.. image:: https://travis-ci.org/Attumm/Maat2.svg?branch=master
+    :target: https://travis-ci.org/Attumm/Maat2
 
 Maat is a easy extensible transformation and validation library for Python.
 Build for corner cases.
