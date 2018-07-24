@@ -1,5 +1,5 @@
 =========================
-Maat
+Maat 2
 =========================
 
 .. image:: https://travis-ci.org/Attumm/Maat.svg?branch=master
@@ -7,6 +7,7 @@ Maat
 
 Maat is a easy extensible transformation and validation library for Python.
 Build for corner cases.
+This version is for Python2, Python3 project is called Maat.
 
 The project is named after the ancient egyption god Maat.
 Her scale was used to weight the heart as described by book of the dead.
