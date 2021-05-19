@@ -7,7 +7,7 @@ jsonpickle==0.9.4
 linecache2==1.0.0
 packaging==16.8
 pluggy==0.5.2
-py==1.4.34
+py==1.10.0
 pyparsing==2.2.0
 six==1.10.0
 tox==2.8.2
@@ -15,6 +15,6 @@ traceback2==1.4.0
 unittest2==1.1.0
 virtualenv==15.1.0
 certifi==2017.11.5
-PyYAML==3.12
+PyYAML==5.4
 pycrypto==2.6.1
 pyparsing==2.2.0
